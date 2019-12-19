@@ -1,12 +1,12 @@
-fieldday,old,synced successfully,64.736s
-fieldday,old,completed successfully,4.705s
-fieldday,old,build and install,
-majortom,old,synced successfully,61.274s
-majortom,old,completed successfully,2.674s
-majortom,old,build and install,
-fieldday,new,synced successfully,15.363s
-fieldday,new,completed successfully,1.368s
-fieldday,new,build and install,
-majortom,new,synced successfully,14.375s
-majortom,new,completed successfully,1.358s
-majortom,new,build and install,
+fieldday,old,synced successfully,64.736
+fieldday,old,completed successfully,4.705
+fieldday,old,build and install,1
+majortom,old,synced successfully,61.274
+majortom,old,completed successfully,2.674
+majortom,old,build and install,1
+fieldday,new,synced successfully,15.363
+fieldday,new,completed successfully,1.368
+fieldday,new,build and install,1
+majortom,new,synced successfully,14.375
+majortom,new,completed successfully,1.358
+majortom,new,build and install,1
