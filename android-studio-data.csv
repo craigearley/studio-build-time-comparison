@@ -1,12 +1,12 @@
-fieldday,old,synced successfully,64.736
-fieldday,old,completed successfully,4.705
-fieldday,old,build and install,59.349
-majortom,old,synced successfully,61.274
-majortom,old,completed successfully,2.674
-majortom,old,build and install,96.861
-fieldday,new,synced successfully,15.363
-fieldday,new,completed successfully,1.368
-fieldday,new,build and install,11.600
-majortom,new,synced successfully,14.375
-majortom,new,completed successfully,1.358
-majortom,new,build and install,34.280
+Field Day,old,Sync at Studio Launch,64.736
+Field Day,old,Build Not Install,4.705
+Field Day,old,Build and Install on Device,59.349
+Major Tom,old,Sync at Studio Launch,61.274
+Major Tom,old,Build Not Install,2.674
+Major Tom,old,Build and Install on Device,96.861
+Field Day,new,Sync at Studio Launch,15.363
+Field Day,new,Build Not Install,1.368
+Field Day,new,Build and Install on Device,11.600
+Major Tom,new,Sync at Studio Launch,14.375
+Major Tom,new,Build Not Install,1.358
+Major Tom,new,Build and Install on Device,34.280
